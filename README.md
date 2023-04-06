@@ -1,6 +1,6 @@
 ### Olá, eu sou o Ikaro Hans
 
-- 🌱 Estudando JavaScript | Java | React 
+- 🌱 Estudando: JavaScript | Java | React 
 - 📫 Contateme no email: ikaro-hans@hotmail.com.br
 
 
